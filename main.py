@@ -83,6 +83,6 @@ while True:
     except Exception as e:
         pass  
 
-    # Mostrar el resultado
+    
     cv2.imshow("Arrastrar y Soltar", fotograma)
     cv2.waitKey(1)
